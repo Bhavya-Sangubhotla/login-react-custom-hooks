@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-react-custom-hooks/static/css/main.14e02221.css",
+    "main.js": "/login-react-custom-hooks/static/js/main.6c6f60dc.js",
+    "index.html": "/login-react-custom-hooks/index.html",
+    "main.14e02221.css.map": "/login-react-custom-hooks/static/css/main.14e02221.css.map",
+    "main.6c6f60dc.js.map": "/login-react-custom-hooks/static/js/main.6c6f60dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e02221.css",
+    "static/js/main.6c6f60dc.js"
+  ]
+}
