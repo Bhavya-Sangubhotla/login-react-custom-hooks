@@ -1,0 +1,47 @@
+body{
+    margin-top: 10%;
+    text-align: center;
+    background-color: gray; 
+}
+form{
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 5px #eee;
+    padding: 20px 30px;
+    display: inline-block;
+    background-color: white;
+    border: solid 2px #eee;
+    
+}
+.input-control{
+    text-align: left;
+    font-size: 1rem;
+}
+label{
+    margin: 10px;
+}
+input{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.input-button{
+    text-align: right;
+    border-radius: 15px;
+}
+.warning{
+    color: red;
+
+}
+.invalid{
+    background-color: rgb(248, 166, 166);
+    border: solid 2px red;
+}
+.disable,
+.disable:hover{
+    background-color: #ccc;
+    cursor: not-allowed;
+    border: none;
+}
